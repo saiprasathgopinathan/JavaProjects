@@ -10,5 +10,6 @@ JavaFX for creating UI, JDBC is used for connecting the DataBase. The User needs
 
 Fees before Discount
 ![Screenshot](3.PNG)
+
 Fees after Discount
 ![Screenshot](4.PNG)
