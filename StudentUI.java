@@ -143,14 +143,12 @@ public class StudentUI extends Application
         	if(numberField.getText() != "")
         	{
         		validate();
-        		return;
         	}
         	
         	if(emailField.getText() != "")
         	{
         		System.out.println("Email is "+emailField.getText());
         		validate();
-        		return;
         	}
         	
         	StringBuilder inputDetails = new StringBuilder();
