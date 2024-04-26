@@ -8,10 +8,10 @@ Using JavaFX UI is created where the User gets to give the city name as input. J
 # Student Tuition Fees
 JavaFX for creating UI, JDBC is used for connecting the DataBase. The User needs first need to connect, enter all the fields and insert, then display. To apply the discount, the user needs to click the apply discount and the output will reflect automatically.
 
-Fees before Discount<br>
+<b>Fees before Discount<br>
 ![Screenshot](3.PNG)
 
-Fees after Discount<br>
+<b>Fees after Discount<br>
 ![Screenshot](4.PNG)
 
 # MediaPlayer
