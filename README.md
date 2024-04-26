@@ -13,3 +13,7 @@ Fees before Discount
 
 Fees after Discount
 ![Screenshot](4.PNG)
+
+# MediaPlayer
+Using Media, GridPane and BorderPane the player is created. The user can open any mp4 dynamically. Has the ability to move forward & backward, adjust volume, increase/decrease speed
+![Screenshot](5.PNG)
