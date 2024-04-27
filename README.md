@@ -17,3 +17,6 @@ JavaFX for creating UI, JDBC is used for connecting the DataBase. The User needs
 # MediaPlayer
 Using Media, GridPane and BorderPane the player is created. The user can open any mp4 dynamically. Has the ability to move forward & backward, adjust volume, increase/decrease speed
 ![Screenshot](5.PNG)
+
+# Student DataBase Mainteanance
+Using JavaFX interactive UI is created. MySQL and Apache services are used for creating, inserting, updating, fetching and deleting the record in the table.
