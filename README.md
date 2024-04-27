@@ -20,3 +20,4 @@ Using Media, GridPane and BorderPane the player is created. The user can open an
 
 # Student DataBase Mainteanance
 Using JavaFX interactive UI is created. MySQL and Apache services are used for creating, inserting, updating, fetching and deleting the record in the table.
+![Screenshot](6.PNG)
